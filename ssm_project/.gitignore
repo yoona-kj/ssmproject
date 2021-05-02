@@ -29,7 +29,6 @@ target/
 .settings/
 bin/
 
-*.log
 tem/
 
 #rebel
